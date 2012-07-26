@@ -1,0 +1,175 @@
+#submit{
+    height:30px;
+    width:70px;
+    
+}
+
+#submit2{
+    height:30px;
+    width:70px;
+    
+}
+#head{
+	padding-bottom:0px;
+	
+	border-bottom:solid;
+	border-width:thin;
+	border-color:white;
+	margin:0px;
+    margin-bottom:10px
+    
+}
+#head2{
+	padding-bottom:0px;
+	
+	border-bottom:solid;
+	border-width:thin;
+	border-color:white;
+	margin-bottom:10px
+}
+
+#signIn{
+	
+	width:310px;
+	height:150px;
+	background-image:url('formBackground.png');
+	position:absolute;
+	left:485px;
+	top:15px;
+	
+}
+
+#signUp{
+	
+	margin-top:0px;
+	width:310px;
+	height:210px;
+	background-image:url('formBackground2.png');
+	position:absolute;
+	left:485px;
+	top:175px;
+}
+
+#signInput,#signUpput, #passwdNew{
+	margin:3px;
+	width:310px;
+	height:30px;
+	font-size:110%;
+	color:gray;
+	font-style:italic;
+    border-radius:4px;
+    margin-top:5px;
+}
+
+#signInputSelected,#signUpputSelected, #passwdNewSelected{
+	margin:3px;
+	width:310px;
+	height:30px;
+	font-size:110%;
+    border-radius:4px;
+    margin-top:5px;
+}
+
+#password,#passwdNewConfirm{
+	margin:3px;
+	width:230px;
+	height:30px;
+	font-size:110%;
+	color:gray;
+	font-style:italic;
+    border-radius:4px;
+    margin-top:5px;
+}
+
+#passwordSelected,#passwdNewConfirmSelected{
+	margin:3px;
+	width:230px;
+	height:30px;
+	font-size:110%;
+    border-radius:4px;
+    margin-top:5px;
+}
+
+
+
+#search{
+	
+	position:absolute;
+	left:1200px;
+	top:58px;
+}
+
+#horizontal{
+	display:inline;
+}
+
+
+ul{
+	list-style-type:none;
+}
+
+#content{
+	
+	position:relative;
+	top:200px;
+
+	height:400px;
+	width:1000px;
+	
+	margin-left:auto;
+	margin-right:auto;
+	/*background-color:#86DA86;*/
+}
+#logo{
+    margin-left:-20px;
+    margin-top:70px;
+    padding-bottom:5px;
+  
+}
+#left{
+	height:100%;
+	width:60%;
+	float:left;
+	border:solid;
+	border-color:white;
+	border-radius:8px;
+	background-color:#FFC06E;
+	border-width:thick;
+}
+#topI{
+   
+	margin-left:600px;
+	border:solid;
+	border-color:white;
+    
+	border-radius:8px;
+	height:44%;
+	background-color:#86DA86;/*#FFF3E8;*/
+}
+#bottom{
+	margin-left:600px;
+	border:solid;
+	border-color:white;
+    border-bottom-width:thick;
+	border-radius:8px;
+	
+	height:56%;
+	background-color:#668CFF;/*#FFC06E;*/
+}
+p{
+    font-size:130%;
+	font-family:Arial;
+	font-weight:bold;
+	color:white;
+	text-shadow: 0 2px 1px black;
+	margin:5px;
+	margin-top:0px;
+}
+
+
+/*#right{
+	height:100%;
+	width:50%;
+	border:solid;
+	border-color:green;
+}*/
